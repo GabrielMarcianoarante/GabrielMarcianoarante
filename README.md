@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.png" alt="Gabriel Banner" width="100%" />
-
 # Gabriel Marciano
 
 **Back-end Developer · Software Engineering Student**
@@ -11,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-gilt-4iglvkd3hw.vercel.app/)
 
 </div>
+
+<img src="./banner.png" alt="Gabriel Banner" width="100%" />
 
 ---
 

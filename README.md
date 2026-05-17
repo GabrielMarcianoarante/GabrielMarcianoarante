@@ -2,31 +2,31 @@
 
 # Gabriel Marciano
 
-**Back-end Developer · Software Engineering Student**
+**Desenvolvedor Back-end · Estudante de Engenharia de Software**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marciano-117183402/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmarcianoarantedeassis@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-gilt-4iglvkd3hw.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-gilt-4iglvkd3hw.vercel.app/)
 
 </div>
 
-<img src="./banner.png" alt="Gabriel Banner" width="100%" />
+<img src="./banner.png" alt="Banner Gabriel" width="100%" />
 
 ---
 
-## About
+## Sobre
 
-Back-end developer focused on APIs, scalable systems, and software architecture.
+Desenvolvedor back-end focado em APIs, sistemas escaláveis e arquitetura de software.
 
-Currently studying Software Engineering at CEUB and building practical projects with Node.js, Python, PostgreSQL, and Docker.
+Atualmente cursando Engenharia de Software no CEUB e desenvolvendo projetos com Node.js, Python, PostgreSQL e Docker.
 
-Looking for a **Back-end Internship** where I can contribute to real products and continue growing as a developer.
+Buscando uma oportunidade de estágio em desenvolvimento back-end para evoluir tecnicamente e contribuir em projetos reais.
 
 ---
 
 ## Stack
 
-### Languages
+### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -35,7 +35,7 @@ Looking for a **Back-end Internship** where I can contribute to real products an
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Database & Tools
+### Banco de Dados & Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,38 +43,38 @@ Looking for a **Back-end Internship** where I can contribute to real products an
 
 ---
 
-## Projects
+## Projetos
 
-### Online Judge Platform
-Competitive programming platform inspired by LeetCode and Codeforces.
+### Plataforma Online Judge
+Plataforma de programação competitiva inspirada em LeetCode e Codeforces.
 
-- Sandboxed code execution with Docker
-- Real-time verdicts using Socket.io
-- Node.js, Express, PostgreSQL, Prisma
+- Execução de código isolada com Docker
+- Resultados em tempo real com Socket.io
+- Node.js, Express, PostgreSQL e Prisma
 
-### Radar Simulation System
-Real-time aircraft radar simulation using OpenSky API.
+### Sistema de Radar em Tempo Real
+Simulação de radar utilizando dados da OpenSky API.
 
-- Threat detection and intercept calculations
-- Interactive map visualization
-- Python, Flask
+- Detecção de ameaças e cálculos de interceptação
+- Visualização interativa em mapa
+- Python e Flask
 
-### Multi-Tenant SaaS API
-B2B SaaS API architecture for micro businesses.
+### API SaaS Multi-Tenant
+Arquitetura de API SaaS para microempresas.
 
-- Authentication and role permissions
-- Multi-tenant structure
-- TypeScript, Express, PostgreSQL
+- Autenticação e controle de permissões
+- Estrutura multi-tenant
+- TypeScript, Express e PostgreSQL
 
 ---
 
-## GitHub Stats
+## Estatísticas GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielMarcianoarante&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarcianoarante&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarcianoarante&theme=dark&hide_border=true&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarcianoarante&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -82,6 +82,6 @@ B2B SaaS API architecture for micro businesses.
 
 <div align="center">
 
-Open to back-end internship opportunities.
+Aberto para oportunidades de estágio em desenvolvimento back-end.
 
 </div>

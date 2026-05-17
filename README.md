@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="./banner.png" alt="Banner Gabriel" width="100%" />
+<img src="./bannernew.png" alt="Banner Gabriel" width="100%" />
 
 ---
 

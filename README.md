@@ -85,4 +85,3 @@ B2B SaaS API architecture for micro businesses.
 Open to back-end internship opportunities.
 
 </div>
-```
